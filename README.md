@@ -1,1 +1,6 @@
 # week4_build_cixiangliang
+上传的文件当中因为文本文件太大，上传了多次都没有成功。所以选择拍照，上传了一小部分内容。
+其中result_00是从维基百科中通过https://github.com/attardi/wikiextractor来处理出来的文本
+cixiangliang 目录里面是主要实现词向量的程序
+cut_out 是在原文件经过结巴分词后得到的文本文件
+figure_new 是实现的词向量图
